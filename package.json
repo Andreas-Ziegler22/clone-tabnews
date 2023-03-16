@@ -1,0 +1,11 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "improving my skills with the complexity of the project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
